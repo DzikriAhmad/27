@@ -1,2 +1,2 @@
-# 27
-Hallo Word
+# pengantar-bahasa-c
+"Hallo Word"
